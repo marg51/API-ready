@@ -1,0 +1,14 @@
+{
+  "name": "API ready",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "~2.6.1"
+  }
+}
