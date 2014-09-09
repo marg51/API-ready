@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "elasticsearch": "^2.4.2",
     "mysql": "^2.5.0",
     "restify": "~2.6.1"
   }
